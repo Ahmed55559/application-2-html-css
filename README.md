@@ -1,2 +1,3 @@
 # application-2-html-css
-kasper template from https://www.graphberry.com
+fully coded by me and
+UI from kasper template from https://www.graphberry.com
